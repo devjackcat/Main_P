@@ -1,0 +1,6 @@
+[submodule "Sub_P"]
+	path = Sub_P
+	url = https://github.com/devjackcat/Sub_P
+[submodule "Sub_P2"]
+	path = Sub_P2
+	url = https://github.com/devjackcat/Sub_P2
